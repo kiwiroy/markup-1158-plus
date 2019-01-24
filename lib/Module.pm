@@ -12,6 +12,10 @@ Module - Test
 
 These are they.
 
+=head1 MORE METHODS
+
+Further description.
+
 =head2 one
 
 The first one.
