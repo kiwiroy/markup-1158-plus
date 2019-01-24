@@ -8,6 +8,10 @@ package Applify;
 
 Module - Test
 
+=head1 DESCRIPTION
+
+A short description.
+
 =head1 METHODS
 
 These are they.
