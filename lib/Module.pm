@@ -12,6 +12,10 @@ Module - Test
 
 These are they.
 
+=head1 DESCRIPTION
+
+A short description.
+
 =head2 one
 
 The first one.
