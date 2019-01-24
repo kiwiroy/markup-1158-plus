@@ -8,7 +8,7 @@ package Applify;
 
 Module - Test
 
-=head1 METHODS
+=head1 METHODICAL
 
 These are they.
 
