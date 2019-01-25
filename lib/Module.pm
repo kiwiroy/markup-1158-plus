@@ -8,7 +8,7 @@ package Applify;
 
 Module - Test
 
-=head1 METHODS
+=head1 DESCRIPTION
 
 These are they.
 
@@ -39,6 +39,10 @@ L</app> block refer to. This class will have:
 =item * one
 
 one
+
+=item three
+
+three
 
 =back
 
